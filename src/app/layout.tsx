@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'JUFO | Çok Yakında - Enerjini Özgür Bırak!',
-  description: 'Jufo çok yakında sizlerle! Taptaze meyve sıkım lezzetleri ve dinamik aktif yaşam içecekleri hazırlanıyor.',
+  title: 'JUFO | Çok Yakında - Yenilikçi Gıda Ürünleri',
+  description: 'Jufo çok yakında sizlerle! Yüksek kaliteli gıda ürünleri ve yenilikçi lezzetler çok yakında sofralarınızda ve raflarda.',
 };
 
 export default function RootLayout({

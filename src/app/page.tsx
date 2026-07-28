@@ -195,7 +195,7 @@ export default function JufoHomePage() {
           className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/5 border border-white/10 backdrop-blur-md text-purple-300 text-xs font-mono uppercase tracking-widest"
         >
           <Sparkles size={14} className="text-pink-400 animate-spin" style={{ animationDuration: '8s' }} />
-          <span>DOĞAL MEYVE VE AKTİF YAŞAM İÇECEKLERİ</span>
+          <span>YENİLİKÇİ VE LEZZETLİ GİDA ÜRÜNLERİ</span>
         </motion.div>
 
         {/* LOGO SHOWCASE (Clean Floating Vector) */}
@@ -229,7 +229,7 @@ export default function JufoHomePage() {
             transition={{ duration: 0.6, delay: 0.3 }}
             className="text-base sm:text-xl text-slate-300 font-medium max-w-2xl mx-auto leading-relaxed"
           >
-            Doğanın en canlı aromaları, %100 saf meyve özleri ve dinamik aktif yaşam enerjisi Jufo ile buluşuyor. Çok yakında raflarda ve caddelerde!
+            Yüksek kalite standartlarında hazırlanan yenilikçi gıda lezzetleri Jufo ile buluşuyor. Çok yakında raflarda ve sofralarınızda!
           </motion.p>
         </div>
 
@@ -338,7 +338,7 @@ export default function JufoHomePage() {
           <span>© 2026 Jufo - Tüm Hakları Saklıdır.</span>
         </div>
         <div className="font-mono text-slate-400 text-center">
-          <strong className="text-white">Jufo Active Drinks</strong> & Refreshment
+          <strong className="text-white">Jufo Quality Food Products</strong>
         </div>
       </footer>
 
