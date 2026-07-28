@@ -195,7 +195,7 @@ export default function JufoHomePage() {
           className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/5 border border-white/10 backdrop-blur-md text-purple-300 text-xs font-mono uppercase tracking-widest"
         >
           <Sparkles size={14} className="text-pink-400 animate-spin" style={{ animationDuration: '8s' }} />
-          <span>YENİLİKÇİ VE LEZZETLİ GİDA ÜRÜNLERİ</span>
+          <span>YENİLİKÇİ VE LEZZETLİ GIDA ÜRÜNLERİ</span>
         </motion.div>
 
         {/* LOGO SHOWCASE (Clean Floating Vector) */}
